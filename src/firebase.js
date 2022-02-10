@@ -19,12 +19,7 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDi2nQA9qvWBy8fdK9zBGTVziCx_QRIpAY",
-  authDomain: "orangewood-auth.firebaseapp.com",
-  projectId: "orangewood-auth",
-  storageBucket: "orangewood-auth.appspot.com",
-  messagingSenderId: "653258214109",
-  appId: "1:653258214109:web:e658bbf39ee218d3f06934"
+  // Your Firebase Config
 };
 
 const app = initializeApp(firebaseConfig);
